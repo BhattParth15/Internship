@@ -3,12 +3,12 @@ PostgreSQL
 
 Basic Angular 
 
-dotnet Basic 
+dotnet Basic Like
 
-  -Loging Page 
+    -Loging Page 
   
-  -Authentication 
+    -Authentication 
   
-  -Authorization 
+    -Authorization 
   
 CRUDE Operation  
